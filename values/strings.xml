@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string name="judul">Pendaftaran Tes tgl 23 Oktober 2020</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="noHP">No. Handphone</string>
+    <string name="email">Email</string>
+    <string name="rapid">Rapid Test</string>
+    <string name="pcr">PCR</string>
+    <string name="checkBox">Saya sudah memeriksa kembali isian formulir diatas</string>
+    <string name="daftar">DAFTAR</string>
+</resources>
